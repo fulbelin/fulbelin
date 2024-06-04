@@ -1,6 +1,6 @@
 ### Hi there I am Belin👋
 
-A recent graduate with a Bachelor's degree in Molecular Biology and Genetics, specializing in Bioinformatics from Bogazici University in Istanbul, Turkey. 
+A recent graduate with a Bachelor's degree in Molecular Biology and Genetics, specializing in Bioinformatics from Bogazici University at Istanbul, Turkey. 
 
 Beyond academia, I've been fortunate to engage in cutting-edge programs and research experiences that have honed my skills in data science, genomics, and artificial intelligence. 
 
