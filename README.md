@@ -6,10 +6,6 @@ I am a **Bioinformatics Master's student** at **Saarland University** and a **re
 [![Belin's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=fulbelin)](https://github.com/fulbelin/github-readme-stats-fast)
 ---
 
----
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fulbelin&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
----
-
 ### Current Research & Focus
 * **Master's Thesis (TUM):** Predicting BRAF V600E mutations using **Graph-MIL** and Foundation Models for H&E Images.
 * **Geo-Intelligence (Saarland):** Building scalable pipelines for population mobility analysis and high-volume geospatial queries.
