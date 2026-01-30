@@ -1,10 +1,10 @@
 # Fancy seeing you here I'm Belin! 🧬🤖
 
-[cite_start]I am a **Bioinformatics Master's student** at **Saarland University** and a **Research Assistant** at the **Interdisciplinary Institute for Societal Computing**[cite: 4, 5, 13, 14]. [cite_start]My research interests sits at the intersection of **Multimodal AI**, **Genomics**, and **Data Engineering**[cite: 32, 55, 56].
+I am a **Bioinformatics Master's student** at **Saarland University** and a **Research Assistant** at the **Interdisciplinary Institute for Societal Computing**. My research interests sits at the intersection of **Multimodal AI**, **Genomics**, and **Data Engineering**.
 
 ---
 
-### 📊 GitHub Productivity
+### GitHub Productivity
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=fulbelin&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Belin's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fulbelin&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
@@ -12,14 +12,14 @@
 
 ---
 
-### 🔬 Current Research & Focus
-* [cite_start]**Master's Thesis (TUM):** Predicting BRAF V600E mutations using **Graph-MIL** and Foundation Models for H&E Images[cite: 36, 39].
-* [cite_start]**Geo-Intelligence (Saarland):** Building scalable pipelines for population mobility analysis and high-volume geospatial queries[cite: 16, 17, 18].
+### Current Research & Focus
+* **Master's Thesis (TUM):** Predicting BRAF V600E mutations using **Graph-MIL** and Foundation Models for H&E Images.
+* **Geo-Intelligence (Saarland):** Building scalable pipelines for population mobility analysis and high-volume geospatial queries.
 * **Data Engineering:** Currently learning workflow orchestration with **Kestra** and cloud infrastructure on **GCP**.
 
 ---
 
-### 🛠 Specialized Tech Stack
+### Tech Stack
 
 | Domain | Tools & Technologies |
 | :--- | :--- |
@@ -30,11 +30,11 @@
 
 ---
 
-### 🚀 Featured Projects
-* [cite_start]**[Saarbrücken Eats](https://github.com/fulbelin/is2c):** Interactive geospatial dashboard with optimized SQL routing[cite: 53, 54].
-* [cite_start]**[DNA-Seq Pipeline](https://github.com/fulbelin/Snakemake-workflow-dna-seq-short-read-blend-map):** Reproducible Snakemake workflow for PacBio BLEND-based analysis[cite: 55].
-* [cite_start]**[PET-CT Metastasis Prediction](https://github.com/fulbelin/PET_CT):** Multimodal attention-based model for cancer diagnosis[cite: 56].
-
+### Featured Projects
+* **[Saarbrücken Eats](https://github.com/fulbelin/is2c):** Interactive geospatial dashboard with optimized SQL routing.
+* **[DNA-Seq Pipeline](https://github.com/fulbelin/Snakemake-workflow-dna-seq-short-read-blend-map):** Reproducible Snakemake workflow for PacBio BLEND-based analysis.
+* **[PET-CT Metastasis Prediction](https://github.com/fulbelin/PET_CT):** Multimodal attention-based model for cancer diagnosis.
+* **[Breast Cancer Risk Stratification](https://github.com/fulbelin/mlzoomcamp/tree/main/capstone-project):** A production-grade risk estimation service  using the Wisconsin Breast Cancer dataset to classify tumors as malignant or benign. Features a Flask API containerized with Docker and a Streamlit UI for real-time triage support. 
 ---
 
 ### 📫 Connect with me:
