@@ -6,8 +6,8 @@ I am a **Bioinformatics Master's student** at **Saarland University** and a **Re
 
 ### GitHub Productivity
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=fulbelin&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Belin's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fulbelin&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fulbelin&show_icons=true&theme=tokyonight&hide_border=true" alt="Belin's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fulbelin&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
