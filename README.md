@@ -7,7 +7,7 @@ I am a **Bioinformatics Master's student** at **Saarland University** and a **re
 ---
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fulbelin&theme=tokyonight)
+![Belin's GitHub stats](https://github-readme-stats.vercel.app/api?username=fulbelin&count_private=true)
 ---
 
 ## Current Research & Focus
