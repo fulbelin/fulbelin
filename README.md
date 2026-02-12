@@ -3,7 +3,7 @@
 I am a **Bioinformatics Master's student** at **Saarland University** and a **research assistant** at the **Interdisciplinary Institute for Societal Computing**. My research interests sits at the intersection of **Multimodal AI**, **Genomics**, and **Data Engineering**.
 
 ---
-[![Belin's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=fulbelin)](https://github.com/fulbelin/github-readme-stats-fast)
+[![Belin's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=fulbelin)](https://github.com/fulbelin/github-readme-stats-fast) 
 ---
 
 ### Current Research & Focus
