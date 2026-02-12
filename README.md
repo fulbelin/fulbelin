@@ -28,7 +28,7 @@ I am a **Bioinformatics Master's student** at **Saarland University** and a **re
 * **[Saarbrücken Eats](https://github.com/fulbelin/is2c):** Interactive geospatial dashboard with optimized SQL routing.
 * **[DNA-Seq Pipeline](https://github.com/fulbelin/Snakemake-workflow-dna-seq-short-read-blend-map):** Reproducible Snakemake workflow for PacBio BLEND-based analysis.
 * **[PET-CT Metastasis Prediction](https://github.com/fulbelin/PET_CT):** Multimodal attention-based model for cancer diagnosis.
-* **[Breast Cancer Risk Stratification](https://github.com/fulbelin/mlzoomcamp/tree/main/capstone-project):** A production-grade risk estimation service  using the Wisconsin Breast Cancer dataset to classify tumors as malignant or benign. Features a Flask API containerized with Docker and a Streamlit UI for real-time triage support. 
+* **[Breast Cancer Risk Stratification](https://github.com/fulbelin/breast-cancer-stratification):** A production-grade risk estimation service  using the Wisconsin Breast Cancer dataset to classify tumors as malignant or benign. Features a Flask API containerized with Docker and a Streamlit UI for real-time triage support. 
 ---
 
 ### 📫 Connect with me:
