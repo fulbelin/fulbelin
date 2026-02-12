@@ -4,12 +4,13 @@ I am a **Bioinformatics Master's student** at **Saarland University** and a **re
 
 <a href="https://github.com/fulbelin">
   <img height="200" align="center"
-       src="https://github-readme-stats-fast.vercel.app/api?username=fulbelin&show_icons=true&include_all_commits=true&count_private=true" />
+       src="https://github-readme-stats-fast.vercel.app/api?username=fulbelin&show_icons=true&include_all_commits=true&count_private=true&theme=graywhite" />
 </a>
 <a href="https://github.com/fulbelin">
   <img height="200" align="center"
-       src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=fulbelin&layout=compact&langs_count=8&card_width=320&count_private=true" />
+       src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=fulbelin&layout=compact&langs_count=8&card_width=320&count_private=true&theme=graywhite" />
 </a>
+
 
 
 ## Current Research & Focus
