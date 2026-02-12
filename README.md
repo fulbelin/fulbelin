@@ -1,14 +1,16 @@
 # Fancy seeing you here I'm Belin! 🧬🤖
 
-I am a **Bioinformatics Master's student** at **Saarland University** and a **research assistant** at the **Interdisciplinary Institute for Societal Computing**. My research interests sits at the intersection of **Multimodal AI**, **Genomics**, and **Data Engineering**.
+I am a **Bioinformatics Master's student** at **Saarland University** and a **research assistant** at the **Interdisciplinary Institute for Societal Computing**. My research interests sit at the intersection of **Multimodal AI**, **Genomics**, and **Data Engineering**.
 
----
-[![Belin's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=fulbelin)](https://github.com/fulbelin/github-readme-stats-fast) 
----
+<a href="https://github.com/fulbelin">
+  <img height="200" align="center"
+       src="https://github-readme-stats-fast.vercel.app/api?username=fulbelin&show_icons=true&include_all_commits=true&count_private=true" />
+</a>
+<a href="https://github.com/fulbelin">
+  <img height="200" align="center"
+       src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=fulbelin&layout=compact&langs_count=8&card_width=320&count_private=true" />
+</a>
 
----
-[![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=fulbelin&theme=white)](https://github.com/fulbelin)
----
 
 ## Current Research & Focus
 * **Master's Thesis (TUM):** Predicting BRAF V600E mutations using **Graph-MIL** and Foundation Models for H&E Images.
