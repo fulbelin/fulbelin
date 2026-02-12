@@ -11,8 +11,6 @@ I am a **Bioinformatics Master's student** at **Saarland University** and a **re
        src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=fulbelin&layout=compact&langs_count=8&card_width=320&count_private=true&theme=graywhite" />
 </a>
 
-
-
 ## Current Research & Focus
 * **Master's Thesis (TUM):** Predicting BRAF V600E mutations using **Graph-MIL** and Foundation Models for H&E Images.
 * **Geo-Intelligence (Saarland):** Building scalable pipelines for population mobility analysis and high-volume geospatial queries.
@@ -25,7 +23,7 @@ I am a **Bioinformatics Master's student** at **Saarland University** and a **re
 | Domain | Tools & Technologies |
 | :--- | :--- |
 | **ML & AI** | ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) |
-| **Bioinformatics** | ![Snakemake](https://img.shields.io/badge/Snakemake-4E9A06?style=flat) **Nextflow** **HPC** **BCFtools** |
+| **Bioinformatics** | ![Snakemake](https://img.shields.io/badge/Snakemake-4E9A06?style=flat) ![Nextflow](https://img.shields.io/badge/Nextflow-3C3C3C?style=flat&logo=nextflow&logoColor=white) ![HPC](https://img.shields.io/badge/HPC-High--Performance--Computing-6A1B9A?style=flat) ![BCFtools](https://img.shields.io/badge/BCFtools-1F6FEB?style=flat) ![Seurat](https://img.shields.io/badge/Seurat-2E8B57?style=flat) ![Scanpy](https://img.shields.io/badge/Scanpy-1E90FF?style=flat) |
 | **Data Engineering** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) |
 | **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat) |
 
