@@ -6,14 +6,18 @@ I am a **Bioinformatics Master's student** at **Saarland University** and a **re
 [![Belin's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=fulbelin)](https://github.com/fulbelin/github-readme-stats-fast) 
 ---
 
-### Current Research & Focus
+---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fulbelin&theme=tokyonight)
+---
+
+## Current Research & Focus
 * **Master's Thesis (TUM):** Predicting BRAF V600E mutations using **Graph-MIL** and Foundation Models for H&E Images.
 * **Geo-Intelligence (Saarland):** Building scalable pipelines for population mobility analysis and high-volume geospatial queries.
 * **Data Engineering:** Currently learning workflow orchestration with **Kestra** and cloud infrastructure on **GCP**.
 
 ---
 
-### Tech Stack
+## Tech Stack
 
 | Domain | Tools & Technologies |
 | :--- | :--- |
@@ -24,7 +28,7 @@ I am a **Bioinformatics Master's student** at **Saarland University** and a **re
 
 ---
 
-### Featured Projects
+## Featured Projects
 * **[Saarbrücken Eats](https://github.com/fulbelin/is2c):** Interactive geospatial dashboard with optimized SQL routing.
 * **[DNA-Seq Pipeline](https://github.com/fulbelin/Snakemake-workflow-dna-seq-short-read-blend-map):** Reproducible Snakemake workflow for PacBio BLEND-based analysis.
 * **[PET-CT Metastasis Prediction](https://github.com/fulbelin/PET_CT):** Multimodal attention-based model for cancer diagnosis.
